@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000689
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -10,7 +11,7 @@ assetsSummary:
   numberOfFiles: 0
   schemaKey: AssetsSummary
 citation: Keyes, Laurel (2023) Data supporting Neurotensin orchestrates valence  assignment
-  in the amygdala (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  in the amygdala (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000689/draft
 contributor:
 - affiliation: []
   email: laurelrr@gmail.com
@@ -20,35 +21,41 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-10-23T20:27:48.564158+00:00'
-datePublished: '2023-10-23T20:28:15.527717+00:00'
 description: This dandiset contains the data used in the paper, Li, H., Namburi, P.,
   Olson, J.M. et al. Neurotensin orchestrates valence assignment in the amygdala.
   Nature 608, 586–592 (2022). https://doi.org/10.1038/s41586-022-04964-y.  It includes
-  neuropixels recordings of experiments for valence assignment in the amygdala, corresponding
-  behavioral videos during Pavlovian discrimination tasks, and histology.  A second
-  cohort includes fiber photometry data.
-doi: 10.80507/dandi.123456/0.123456.1234
+  in vivo electrophysiology recordings of experiments for valence assignment in the
+  amygdala, corresponding behavioral videos during Pavlovian discrimination tasks,
+  and histology.  A second cohort includes fiber photometry data.
+ethicsApproval:
+- {}
 id: DANDI:000689/draft
 identifier: DANDI:000689
+keywords:
+- in vivo electrophysiology
+- mouse
+- ' Pavlovian discrimination'
+- deeplabcut
+- basolateral amygdala (BLA)
+- paraventricular nucleus of the thalamus (PVT)
+- neutotensin
+- valence assignment
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000689/versions/draft/assets/
 name: Data supporting Neurotensin orchestrates valence  assignment in the amygdala
-publishedBy:
-  endDate: '2023-10-23T20:28:15.527717+00:00'
-  id: urn:uuid:d6f119e6-267d-433e-8a7f-7ba692c74625
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-10-23T20:28:15.527717+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:e6bec93a-d6fa-46e8-a239-d2b5e934e030
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
+protocol:
+- https://doi.org/10.1038/s41586-022-04964-y
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget:
+- how is valence-specific information routed to the BLA neurons with the appropriate  downstream
+  projections?
+- how to reconcile the sub-second timescales of synaptic plasticity with the longer
+  timescales separating the predictive cues from their outcomes
 url: https://dandiarchive.org/dandiset/000689/draft
 version: draft
+wasGeneratedBy: []
