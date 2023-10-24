@@ -28,7 +28,20 @@ description: This dandiset contains the data used in the paper, Li, H., Namburi,
   amygdala, corresponding behavioral videos during Pavlovian discrimination tasks,
   and histology.  A second cohort includes fiber photometry data.
 ethicsApproval:
-- {}
+- contactPoint:
+    email: rwichmann@salk.edu
+    schemaKey: ContactPoint
+  identifier: 18-00060
+  schemaKey: EthicsApproval
+- contactPoint:
+    email: rwichmann@salk.edu
+    schemaKey: ContactPoint
+  identifier: 1114-119-17
+  schemaKey: EthicsApproval
+- contactPoint:
+    schemaKey: ContactPoint
+  identifier: 0118-002-21
+  schemaKey: EthicsApproval
 id: DANDI:000689/draft
 identifier: DANDI:000689
 keywords:
