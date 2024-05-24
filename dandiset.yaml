@@ -23,9 +23,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 557410080009
-  numberOfFiles: 84
-  numberOfSubjects: 35
+  numberOfBytes: 574784621711
+  numberOfFiles: 85
+  numberOfSubjects: 36
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -36,15 +36,326 @@ assetsSummary:
   - ProcessingModule
   - ElectricalSeries
   - Units
-citation: Keyes, Laurel (2024) Data supporting Neurotensin orchestrates valence  assignment
-  in the amygdala (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000689/draft
+citation: ' Laurel R. Keyes; Hao Li; Praneeth Namburi; Matilde Borio; Mackenzie E.
+  Lemieux; Anna Beyeler; Gwendolyn G. Calhoon; Natsuko Hitora-Imamura; Austin A. Coley;
+  Avraham Libster; Aneesh Bal; Xin Jin; Huan Wang; Caroline Jia; Sourav R. Choudhury;
+  Xi Shi; Ada C. Felix-Ortiz; Verónica de la Fuente; Vanessa P. Barth; Hunter O. King;
+  Ehsan M. Izadmehr; Jasmin S. Revanna; Kanha Batra; Kyle B. Fischer; Nancy Padilla-Coreano;
+  Cody A. Siciliano; Kenneth M. McCullough; Romy Wichmann; Kerry J. Ressler; Ila R.
+  Fiete; Feng Zhang; Yulong Li; Kay M. Tye (2024) Data supporting Neurotensin orchestrates
+  valence  assignment in the amygdala (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000689/draft'
 contributor:
 - affiliation: []
-  email: laurelrr@gmail.com
+  email: lkeyes@salk.edu
+  identifier: 0000-0001-5433-9948
   includeInCitation: true
-  name: Keyes, Laurel
+  name: ' Laurel R. Keyes'
   roleName:
   - dcite:ContactPerson
+  - dcite:DataCurator
+  - dcite:DataManager
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: false
+  name: JPB Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.jpbfoundation.org/
+- includeInCitation: false
+  name: Picker Institute Innovation Fund (PIIF)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: PNDRF
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Junior Faculty Development Program (JFDP)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Alfred P. Sloan Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: New York Stem Cell Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Klingenstein Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: McKnight Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Clayton Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Kavli Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Dolby Family Fund
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: R01-MH102441 (NIMH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: R37-MH102441 (NIMH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: 'The NIH Director’s New Innovator Award DP2-DK102256 (NIDDK) '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: The NIH Director's Pioneer Award DP1-AT009925 (NCCIH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: NIH Pathway to Independence Award (K99 DA055111)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Singleton, Leventhal and Whitaker fellowships
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: The Swiss National Science Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: NARSAD
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Grant-in-Aid for Scientific Research  on Innovative Areas (15K21744 and 17H06043)
+    from MEXT and the Uehara Memorial Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: NARSAD Young Investigator Award (Brain and Behavior Research Foundation)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Brain Initiative F32 from NIMH (F32 MH115446-01)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: Fulbright fellowship
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- email: haoli@northwestern.edu
+  identifier: 0000-0001-8710-1290
+  includeInCitation: true
+  name: Hao Li
+  roleName:
+  - dcite:Author
+  - dcite:ProjectLeader
+  - dcite:Researcher
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Praneeth Namburi
+  roleName:
+  - dcite:FormalAnalysis
+  - dcite:DataCollector
+  - dcite:Software
+  - dcite:Author
+  schemaKey: Person
+- includeInCitation: false
+  name: Jacob M. Olson
+  roleName:
+  - dcite:DataCollector
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Matilde Borio
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Mackenzie E. Lemieux
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Anna Beyeler
+  roleName:
+  - dcite:DataCollector
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Gwendolyn G. Calhoon
+  roleName:
+  - dcite:DataCollector
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Natsuko Hitora-Imamura
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Austin A. Coley
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Avraham Libster
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Aneesh Bal
+  roleName:
+  - dcite:DataCollector
+  - dcite:Software
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Xin Jin
+  roleName:
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Huan Wang
+  roleName:
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Caroline Jia
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Sourav R. Choudhury
+  roleName:
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Xi Shi
+  roleName:
+  - dcite:DataCollector
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Ada C. Felix-Ortiz
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Verónica de la Fuente
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Vanessa P. Barth
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Hunter O. King
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Ehsan M. Izadmehr
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Jasmin S. Revanna
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Kanha Batra
+  roleName:
+  - dcite:Software
+  schemaKey: Person
+- includeInCitation: true
+  name: Kyle B. Fischer
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Nancy Padilla-Coreano
+  roleName:
+  - dcite:Software
+  schemaKey: Person
+- includeInCitation: true
+  name: Cody A. Siciliano
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Kenneth M. McCullough
+  roleName:
+  - dcite:DataCollector
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Romy Wichmann
+  roleName:
+  - dcite:DataCollector
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Kerry J. Ressler
+  roleName:
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Ila R. Fiete
+  roleName:
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Feng Zhang
+  roleName:
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Yulong Li
+  roleName:
+  - dcite:Methodology
+  schemaKey: Person
+- includeInCitation: true
+  name: Kay M. Tye
+  roleName:
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:Supervision
+  - dcite:Author
   schemaKey: Person
 dateCreated: '2023-10-23T20:27:48.564158+00:00'
 description: This dandiset contains the data used in the paper, Li, H., Namburi, P.,
