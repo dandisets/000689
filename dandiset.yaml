@@ -44,7 +44,7 @@ citation: Keyes, Laurel R.; Li, Hao; Namburi, Praneeth; Borio, Matilde; Lemieux,
   Kyle B.; Padilla-Coreano, Nancy; Siciliano, Cody A. ; McCullough, Kenneth M. ; Wichmann,
   Romy; Ressler, Kerry J. ; Fiete, Ila R. ; Zhang, Feng; Li, Yulong; Tye, Kay M.  (2024)
   Data supporting Neurotensin orchestrates valence  assignment in the amygdala (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000689/draft
+  0.240524.2012) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000689/0.240524.2012
 contributor:
 - affiliation: []
   email: lkeyes@salk.edu
@@ -370,13 +370,14 @@ description: This dandiset contains the data used in the paper, Li, H., Namburi,
   in vivo electrophysiology recordings of experiments for valence assignment in the
   amygdala, corresponding behavioral videos during Pavlovian discrimination tasks,
   and histology.  A second cohort includes fiber photometry data.
+doi: 10.48324/dandi.000689/0.240524.2012
 ethicsApproval:
 - contactPoint:
     email: rwichmann@salk.edu
     schemaKey: ContactPoint
   identifier: 18-00060
   schemaKey: EthicsApproval
-id: DANDI:000689/draft
+id: DANDI:000689/0.240524.2012
 identifier: DANDI:000689
 keywords:
 - in vivo electrophysiology
@@ -390,7 +391,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000689/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000689/0.240524.2012/assets.yaml
 name: Data supporting Neurotensin orchestrates valence  assignment in the amygdala
 protocol:
 - https://doi.org/10.1038/s41586-022-04964-y
@@ -415,6 +416,6 @@ studyTarget:
   projections?
 - how to reconcile the sub-second timescales of synaptic plasticity with the longer
   timescales separating the predictive cues from their outcomes
-url: https://dandiarchive.org/dandiset/000689/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000689/0.240524.2012
+version: 0.240524.2012
 wasGeneratedBy: []
