@@ -36,20 +36,21 @@ assetsSummary:
   - ProcessingModule
   - ElectricalSeries
   - Units
-citation: ' Laurel R. Keyes; Hao Li; Praneeth Namburi; Matilde Borio; Mackenzie E.
-  Lemieux; Anna Beyeler; Gwendolyn G. Calhoon; Natsuko Hitora-Imamura; Austin A. Coley;
-  Avraham Libster; Aneesh Bal; Xin Jin; Huan Wang; Caroline Jia; Sourav R. Choudhury;
-  Xi Shi; Ada C. Felix-Ortiz; Verónica de la Fuente; Vanessa P. Barth; Hunter O. King;
-  Ehsan M. Izadmehr; Jasmin S. Revanna; Kanha Batra; Kyle B. Fischer; Nancy Padilla-Coreano;
-  Cody A. Siciliano; Kenneth M. McCullough; Romy Wichmann; Kerry J. Ressler; Ila R.
-  Fiete; Feng Zhang; Yulong Li; Kay M. Tye (2024) Data supporting Neurotensin orchestrates
-  valence  assignment in the amygdala (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000689/draft'
+citation: Keyes, Laurel R.; Li, Hao; Namburi, Praneeth; Borio, Matilde; Lemieux, Mackenzie
+  E. ; Beyeler, Anna; Calhoon, Gwendolyn G.; Hitora-Imamura, Natsuko; Coley, Austin
+  A.; Libster, Avraham; Bal, Annesh; Jin, Xin; Wang, Huan; Jia, Caroline; Choudhury,
+  Sourav R.; Shi, Xi; Felix-Ortiz, Ada C.; de la Fuente, Veronica; Barth, Vanessa
+  P.; King, Hunter O. ; Izadmehr, Ehsan M. ; Revanna, Jasmin S.; Batra, Kanha; Fischer,
+  Kyle B.; Padilla-Coreano, Nancy; Siciliano, Cody A. ; McCullough, Kenneth M. ; Wichmann,
+  Romy; Ressler, Kerry J. ; Fiete, Ila R. ; Zhang, Feng; Li, Yulong; Tye, Kay M.  (2024)
+  Data supporting Neurotensin orchestrates valence  assignment in the amygdala (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000689/draft
 contributor:
 - affiliation: []
   email: lkeyes@salk.edu
   identifier: 0000-0001-5433-9948
   includeInCitation: true
-  name: ' Laurel R. Keyes'
+  name: Keyes, Laurel R.
   roleName:
   - dcite:ContactPerson
   - dcite:DataCurator
@@ -160,7 +161,7 @@ contributor:
 - email: haoli@northwestern.edu
   identifier: 0000-0001-8710-1290
   includeInCitation: true
-  name: Hao Li
+  name: Li, Hao
   roleName:
   - dcite:Author
   - dcite:ProjectLeader
@@ -168,7 +169,7 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Praneeth Namburi
+  name: Namburi, Praneeth
   roleName:
   - dcite:FormalAnalysis
   - dcite:DataCollector
@@ -176,165 +177,165 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - includeInCitation: false
-  name: Jacob M. Olson
+  name: 'Olson, Jacob M. '
   roleName:
   - dcite:DataCollector
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: true
-  name: Matilde Borio
+  name: Borio, Matilde
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Mackenzie E. Lemieux
+  name: 'Lemieux, Mackenzie E. '
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Anna Beyeler
-  roleName:
-  - dcite:DataCollector
-  - dcite:FormalAnalysis
-  schemaKey: Person
-- includeInCitation: true
-  name: Gwendolyn G. Calhoon
+  name: Beyeler, Anna
   roleName:
   - dcite:DataCollector
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: true
-  name: Natsuko Hitora-Imamura
+  name: Calhoon, Gwendolyn G.
+  roleName:
+  - dcite:DataCollector
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- includeInCitation: true
+  name: Hitora-Imamura, Natsuko
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Austin A. Coley
+  name: Coley, Austin A.
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Avraham Libster
+  name: Libster, Avraham
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Aneesh Bal
+  name: Bal, Annesh
   roleName:
   - dcite:DataCollector
   - dcite:Software
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: true
-  name: Xin Jin
+  name: Jin, Xin
   roleName:
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Huan Wang
+  name: Wang, Huan
   roleName:
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Caroline Jia
+  name: Jia, Caroline
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Sourav R. Choudhury
+  name: Choudhury, Sourav R.
   roleName:
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Xi Shi
+  name: Shi, Xi
   roleName:
   - dcite:DataCollector
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Ada C. Felix-Ortiz
+  name: Felix-Ortiz, Ada C.
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Verónica de la Fuente
+  name: de la Fuente, Veronica
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Vanessa P. Barth
+  name: Barth, Vanessa P.
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Hunter O. King
+  name: 'King, Hunter O. '
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Ehsan M. Izadmehr
+  name: 'Izadmehr, Ehsan M. '
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Jasmin S. Revanna
+  name: Revanna, Jasmin S.
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Kanha Batra
+  name: Batra, Kanha
   roleName:
   - dcite:Software
   schemaKey: Person
 - includeInCitation: true
-  name: Kyle B. Fischer
+  name: Fischer, Kyle B.
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Nancy Padilla-Coreano
+  name: Padilla-Coreano, Nancy
   roleName:
   - dcite:Software
   schemaKey: Person
 - includeInCitation: true
-  name: Cody A. Siciliano
+  name: 'Siciliano, Cody A. '
   roleName:
   - dcite:DataCollector
   schemaKey: Person
 - includeInCitation: true
-  name: Kenneth M. McCullough
+  name: 'McCullough, Kenneth M. '
   roleName:
   - dcite:DataCollector
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Romy Wichmann
+  name: Wichmann, Romy
   roleName:
   - dcite:DataCollector
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: true
-  name: Kerry J. Ressler
+  name: 'Ressler, Kerry J. '
   roleName:
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Ila R. Fiete
+  name: 'Fiete, Ila R. '
   roleName:
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: true
-  name: Feng Zhang
+  name: Zhang, Feng
   roleName:
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Yulong Li
+  name: Li, Yulong
   roleName:
   - dcite:Methodology
   schemaKey: Person
 - includeInCitation: true
-  name: Kay M. Tye
+  name: 'Tye, Kay M. '
   roleName:
   - dcite:Conceptualization
   - dcite:ContactPerson
@@ -362,6 +363,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-10-23T20:27:48.564158+00:00'
+datePublished: '2024-05-24T20:12:38.801253+00:00'
 description: This dandiset contains the data used in the paper, Li, H., Namburi, P.,
   Olson, J.M. et al. Neurotensin orchestrates valence assignment in the amygdala.
   Nature 608, 586–592 (2022). https://doi.org/10.1038/s41586-022-04964-y.  It includes
@@ -392,6 +394,18 @@ manifestLocation:
 name: Data supporting Neurotensin orchestrates valence  assignment in the amygdala
 protocol:
 - https://doi.org/10.1038/s41586-022-04964-y
+publishedBy:
+  endDate: '2024-05-24T20:12:38.801253+00:00'
+  id: urn:uuid:14ae07da-b3b6-40aa-8bb8-8f0c32e8b324
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-05-24T20:12:38.801253+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7c160f86-bddc-421c-b174-10b89a56d8b9
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
