@@ -57,38 +57,17 @@ contributor:
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: false
-  name: JPB Foundation
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
-  url: https://www.jpbfoundation.org/
-- includeInCitation: false
   name: Picker Institute Innovation Fund (PIIF)
   roleName:
-  - dcite:Funder
+  - dcite:Sponsor
   schemaKey: Organization
 - includeInCitation: false
-  name: PNDRF
+  name: Picower Neurological Disorder Research Fund (PNDRF)
   roleName:
   - dcite:Funder
   schemaKey: Organization
 - includeInCitation: false
   name: Junior Faculty Development Program (JFDP)
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
-- includeInCitation: false
-  name: Alfred P. Sloan Foundation
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
-- includeInCitation: false
-  name: New York Stem Cell Foundation
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
-- includeInCitation: false
-  name: Klingenstein Foundation
   roleName:
   - dcite:Funder
   schemaKey: Organization
@@ -112,25 +91,29 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
-- includeInCitation: false
-  name: R01-MH102441 (NIMH)
+- awardNumber: R01-MH102441
+  includeInCitation: false
+  name: National Institute of Mental Health
   roleName:
-  - dcite:Funder
+  - dcite:Sponsor
   schemaKey: Organization
-- includeInCitation: false
-  name: R37-MH102441 (NIMH)
+- awardNumber: 'R37-MH102441 '
+  includeInCitation: false
+  name: National Institute of Mental Health
   roleName:
-  - dcite:Funder
+  - dcite:Sponsor
   schemaKey: Organization
-- includeInCitation: false
-  name: 'The NIH Director’s New Innovator Award DP2-DK102256 (NIDDK) '
+- awardNumber: DP2-DK102256
+  includeInCitation: false
+  name: The NIH Director’s New Innovator Award (NIDDK)
   roleName:
-  - dcite:Funder
+  - dcite:Sponsor
   schemaKey: Organization
-- includeInCitation: false
-  name: The NIH Director's Pioneer Award DP1-AT009925 (NCCIH)
+- awardNumber: 'DP1-AT009925 '
+  includeInCitation: false
+  name: The NIH Director's Pioneer Award (NCCIH)
   roleName:
-  - dcite:Funder
+  - dcite:Sponsor
   schemaKey: Organization
 - includeInCitation: false
   name: NIH Pathway to Independence Award (K99 DA055111)
@@ -163,10 +146,11 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
-- includeInCitation: false
-  name: Brain Initiative F32 from NIMH (F32 MH115446-01)
+- awardNumber: F32 MH115446-01
+  includeInCitation: false
+  name: Brain Initiative F32 from National Institute of Mental Health
   roleName:
-  - dcite:Funder
+  - dcite:Sponsor
   schemaKey: Organization
 - includeInCitation: false
   name: Fulbright fellowship
@@ -357,6 +341,26 @@ contributor:
   - dcite:Supervision
   - dcite:Author
   schemaKey: Person
+- includeInCitation: false
+  name: The Alfred P. Sload Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: The Klingenstein Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: The New York Stem Cell Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: The JPB Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2023-10-23T20:27:48.564158+00:00'
 description: This dandiset contains the data used in the paper, Li, H., Namburi, P.,
   Olson, J.M. et al. Neurotensin orchestrates valence assignment in the amygdala.
