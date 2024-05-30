@@ -58,7 +58,7 @@ contributor:
   - dcite:FormalAnalysis
   schemaKey: Person
 - includeInCitation: false
-  name: Picker Institute Innovation Fund (PIIF)
+  name: Picower Institute Innovation Fund (PIIF)
   roleName:
   - dcite:Sponsor
   schemaKey: Organization
@@ -343,7 +343,7 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - includeInCitation: false
-  name: The Alfred P. Sload Foundation
+  name: The Alfred P. Sloan Foundation
   roleName:
   - dcite:Funder
   schemaKey: Organization
@@ -363,7 +363,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-10-23T20:27:48.564158+00:00'
-datePublished: '2024-05-24T20:12:38.801253+00:00'
+datePublished: '2024-05-30T19:23:45.674336+00:00'
 description: This dandiset contains the data used in the paper, Li, H., Namburi, P.,
   Olson, J.M. et al. Neurotensin orchestrates valence assignment in the amygdala.
   Nature 608, 586–592 (2022). https://doi.org/10.1038/s41586-022-04964-y.  It includes
@@ -395,13 +395,13 @@ name: Data supporting Neurotensin orchestrates valence  assignment in the amygda
 protocol:
 - https://doi.org/10.1038/s41586-022-04964-y
 publishedBy:
-  endDate: '2024-05-24T20:12:38.801253+00:00'
-  id: urn:uuid:14ae07da-b3b6-40aa-8bb8-8f0c32e8b324
+  endDate: '2024-05-30T19:23:45.674336+00:00'
+  id: urn:uuid:f3d85fee-6c57-4935-b23c-4520df630ad0
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-05-24T20:12:38.801253+00:00'
+  startDate: '2024-05-30T19:23:45.674336+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:7c160f86-bddc-421c-b174-10b89a56d8b9
+  - id: urn:uuid:5c403132-f8f4-49b7-bbfd-ab13b4268f1e
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
